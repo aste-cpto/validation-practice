@@ -21,7 +21,7 @@ export const PhoneForm = () => {
 
    return (
     <Box className="bg-white xrounded-xl shadow-md w-full">
-      <Typography variant="h6" className="font-bold text-gray-800 text-center">
+      <Typography variant="h6" className="font-bold text-black text-center">
         Вхід за номером
       </Typography>
       
