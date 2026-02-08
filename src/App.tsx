@@ -1,5 +1,3 @@
-import React from 'react';
-import { Sidebar } from './components/Sidebar';
 import { PhoneTask } from './pages/PhoneTask';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 

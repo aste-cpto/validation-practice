@@ -1,4 +1,3 @@
-import React from 'react';
 import { List, ListItem, ListItemButton, ListItemIcon, ListItemText, Divider, Box, Typography } from '@mui/material';
 import PhoneIphoneIcon from '@mui/icons-material/PhoneIphone';
 import LockClockIcon from '@mui/icons-material/LockClock';
